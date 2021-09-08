@@ -41,7 +41,7 @@
     "yargs": "^10.0.3"
   },
   "dependencies": {
-    "canvg": "3.0.7",
+    "canvg-browser": "^1.0.0",
     "jsdoc": "^3.6.7",
     "shifty": "2.3.1"
   }
